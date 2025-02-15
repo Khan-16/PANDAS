@@ -12,6 +12,7 @@ pandas me hum reshaping slicing kar sakte hai
 
 # pandas data structure 
 Pandas can read three type of data structure 
+
 1 = series 
 2 = Data frame 
 3 = panel
@@ -29,8 +30,10 @@ panel yek 3 diamensional labeled array hota hai
 data frame is msot use pata 
 
 # pandas vs array 
-**Numpy array ka use panda ko implementation karne ke liye hota hai 
+**Numpy array ka use panda ko implementation karne ke liye hota hai
+
 Numpy array is used for the implementation of pandas data objects
+
 **panda use for data analysis and isko implement karne ke liye humko numpy ka use karna padta hai 
 
 
