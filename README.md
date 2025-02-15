@@ -36,4 +36,6 @@ Numpy array is used for the implementation of pandas data objects
 
 **panda use for data analysis and isko implement karne ke liye humko numpy ka use karna padta hai 
 
+# import 
+import pandas as pd
 
