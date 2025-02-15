@@ -1,5 +1,5 @@
 # PANDAS
-# introduction in pandas 
+# introduction in pandas  
 Pandas is a powerful python data analysis toolkit 
 It is a open source 
 A fast and efficient dataframe object for data manipulation 
